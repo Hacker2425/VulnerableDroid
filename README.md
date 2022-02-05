@@ -44,3 +44,6 @@ Tool Coded by @Nikhil
 
 Happy Hacking
 
+
+# Install
+sudo apt install python3 -y
