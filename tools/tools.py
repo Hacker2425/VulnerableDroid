@@ -251,4 +251,3 @@ elif choice == 'e':
    print("Thanks For Using This tool :) Tool Coded by @Nikhil Hacker India")
    exit()
 
-os.system("python3 VulnerableDroid.py")
