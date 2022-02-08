@@ -17,15 +17,6 @@ Aapt
 
 Xterm
 
-# Note
-Please run setup.sh before Using Vulnerable Droid
-
-Use bash setup.sh  
-
-Not ./setup.sh
-
-Or it will give you a error
-
 # Usage 
 
 git clone https://github.com/Hacker2425/VulnerableDroid.git 
