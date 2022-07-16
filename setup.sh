@@ -32,7 +32,7 @@ function checkinternet()
     echo
     echo -e $red "This Script Needs An Active Internet Connection"
     echo
-    echo -e $yellow " Evil-Droid Exit"
+    echo -e $yellow " Vulnerable Droid Exit"
     echo && sleep 2
     exit
   else
